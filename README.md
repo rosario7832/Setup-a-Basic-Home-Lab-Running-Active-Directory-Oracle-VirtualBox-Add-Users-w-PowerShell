@@ -11,4 +11,7 @@ Install and configure **Active Directory**, performing the necessary setup of **
 
 The purpose of installing this server is to allow other devices within the network to access the internet through the **Windows Server**, which will act as a gateway and manage network connectivity.
 
-- [Configuring a DHCP Server in Windows Server](https://github.com/rosario7832/-Configuring-a-DHCP-Server-in-Windows-Server)  
+- [Configuring a DHCP Server in Windows Server](https://github.com/rosario7832/-Configuring-a-DHCP-Server-in-Windows-Server)
+
+A **DHCP (Dynamic Host Configuration Protocol)** server is configured so that client machines can automatically obtain an **IP address** and access the Internet, even when they are connected to a private internal network.
+
