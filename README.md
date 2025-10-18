@@ -7,5 +7,8 @@ In this section, **Windows Server 2019** will be virtualized using **Oracle Virt
 
 Install and configure **Active Directory**, performing the necessary setup of **administrative roles** and **network services** to ensure proper domain management.
 
-- [Installing a Remote Access Server](https://github.com/rosario7832/Installing-a-Remote-Access-Server-in-Windows-Server)  
+- [Installing a Remote Access Server](https://github.com/rosario7832/Installing-a-Remote-Access-Server-in-Windows-Server)
+
+The purpose of installing this server is to allow other devices within the network to access the internet through the **Windows Server**, which will act as a gateway and manage network connectivity.
+
 - [Configuring a DHCP Server in Windows Server](https://github.com/rosario7832/-Configuring-a-DHCP-Server-in-Windows-Server)  
