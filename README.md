@@ -15,3 +15,8 @@ The purpose of installing this server is to allow other devices within the netwo
 
 A **DHCP (Dynamic Host Configuration Protocol)** server is configured so that client machines can automatically obtain an **IP address** and access the Internet, even when they are connected to a private internal network.
 
+- [Adding Users Using PowerShell](https://github.com/rosario7832/Adding-Users-Using-PowerShell/blob/main/README.md)
+
+This guide explains how to use a PowerShell script to add 1,000 new users to Active Directory.  
+All users will be organized within a dedicated `_USERS` organizational unit for easier management.
+
